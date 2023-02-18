@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-18T17:16:16 IST" name="Default suite" finished-at="2023-02-18T17:16:18 IST" duration-ms="1788">
+    <groups>
+    </groups>
+    <test started-at="2023-02-18T17:16:16 IST" name="Default test" finished-at="2023-02-18T17:16:18 IST" duration-ms="1788">
+      <class name="RestAssured.UserOperation">
+        <test-method is-config="true" signature="createPayLoad()[pri:0, instance:RestAssured.UserOperation@4009e306]" started-at="2023-02-18T17:16:16 IST" name="createPayLoad" finished-at="2023-02-18T17:16:16 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPayLoad -->
+        <test-method signature="listOfUsers()[pri:0, instance:RestAssured.UserOperation@4009e306]" started-at="2023-02-18T17:16:16 IST" name="listOfUsers" finished-at="2023-02-18T17:16:17 IST" duration-ms="1002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listOfUsers -->
+        <test-method signature="addNewUser()[pri:1, instance:RestAssured.UserOperation@4009e306]" started-at="2023-02-18T17:16:17 IST" name="addNewUser" finished-at="2023-02-18T17:16:18 IST" duration-ms="554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewUser -->
+        <test-method signature="validateNewUser()[pri:2, instance:RestAssured.UserOperation@4009e306]" started-at="2023-02-18T17:16:18 IST" name="validateNewUser" finished-at="2023-02-18T17:16:18 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateNewUser -->
+      </class> <!-- RestAssured.UserOperation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
